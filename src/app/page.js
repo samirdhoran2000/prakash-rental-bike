@@ -2,6 +2,11 @@ import Image from 'next/image'
 
 export default function Home() {
   return (
-    <>Hellow world</>
+    <>
+      <div className=" min-h-screen">
+      
+      Hellow world
+      </div>
+    </>
   );
 }
