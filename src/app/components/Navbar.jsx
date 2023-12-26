@@ -22,12 +22,12 @@ const Navbar = () => {
         <Link href={"/#services"}>Services</Link>
         <Link href={"https://shreebikerental.in/"}>Bikes</Link>
         <Link href={"/#scooter"}> Scooter</Link>
-        <Link href={"/#about"}>About Us</Link>
+        {/* <Link href={"/#about"}>About Us</Link>
         <Link href={"/#contact"}>Contact Us</Link>
         <Link href={"https://shreebikerental.com/pricing/"}>
           Shree Rental Bikes
         </Link>
-        <Link href={"/#footer"}>Footer</Link>
+        <Link href={"/#footer"}>Footer</Link> */}
 
         {/* <a href="//github.io/jo_geek" target="_blank">Github</a>
     <a href="http://stackoverflow.com/users/4084003/" target="_blank">Stackoverflow</a>
