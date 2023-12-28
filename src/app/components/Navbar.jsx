@@ -5,12 +5,12 @@ import './navbar.css';
 const Navbar = () => {
   return (
     <div className="nav">
-      <input type="checkbox" id="nav-check"/>
+      <input type="checkbox" id="nav-check" />
       <div className="nav-header">
         <div className="nav-title">Rental Bike</div>
       </div>
       <div className="nav-btn">
-        <label for="nav-check">
+        <label htmlFor="nav-check">
           <span></span>
           <span></span>
           <span></span>
@@ -21,7 +21,7 @@ const Navbar = () => {
         <Link href={"/#home"}>Home</Link>
         <Link href={"/#services"}>Services</Link>
         <Link href={"https://shreebikerental.in/"}>Bikes</Link>
-        <Link href={"/#scooter"}> Scooter</Link>
+        <Link href={"https://shreebikerental.com/"}> Scooter</Link>
         {/* <Link href={"/#about"}>About Us</Link>
         <Link href={"/#contact"}>Contact Us</Link>
         <Link href={"https://shreebikerental.com/pricing/"}>

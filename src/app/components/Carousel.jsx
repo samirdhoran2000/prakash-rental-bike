@@ -19,7 +19,7 @@ const Carousel = () => {
           type: "loop",
           // width: 400,
           gap: "4rem",
-          // autoplay: true,
+          autoplay: true,
           pauseOnHover: false,
         }}
       >
@@ -30,9 +30,7 @@ const Carousel = () => {
               alt="Image 1"
               width={imgWidth}
               height={imgHeight}
-              layout="responsive"
-              objectFit="contain"
-              objectPosition="center"
+              
             />
           </div>
         </SplideSlide>
@@ -43,9 +41,7 @@ const Carousel = () => {
               alt="Image 1"
               width={imgWidth}
               height={imgHeight}
-              layout="responsive"
-              objectFit="contain"
-              objectPosition="center"
+              
             />
           </div>
         </SplideSlide>
@@ -56,9 +52,7 @@ const Carousel = () => {
               alt="Image 1"
               width={imgWidth}
               height={imgHeight}
-              layout="responsive"
-              objectFit="contain"
-              objectPosition="center"
+              
             />
           </div>
         </SplideSlide>
@@ -69,9 +63,7 @@ const Carousel = () => {
               alt="Image 1"
               width={imgWidth}
               height={imgHeight}
-              layout="responsive"
-              objectFit="contain"
-              objectPosition="center"
+              
             />
           </div>
         </SplideSlide>
