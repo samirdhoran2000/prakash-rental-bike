@@ -50,7 +50,7 @@ const Footer1 = () => {
             }}
           >
             <Link
-              href="/"
+              href="tel:+918888634041" 
               className="text-gray-500 transition-colors duration-300 hover:text-teal-accent-400"
             >
               <svg viewBox="0 0 24 24" fill="currentColor" className="h-5">
@@ -58,7 +58,7 @@ const Footer1 = () => {
               </svg>
             </Link>
             <Link
-              href="/"
+              href=" https://wa.me/8888634041?text=hii"
               className="text-gray-500 transition-colors duration-300 hover:text-teal-accent-400"
             >
               <svg viewBox="0 0 30 30" fill="currentColor" className="h-6">
