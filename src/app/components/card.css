@@ -10,7 +10,7 @@
 }
 
 .category-sub-container {
-  width: 200px;
+  width: 250px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
