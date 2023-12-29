@@ -18,8 +18,7 @@ align-items: center;
 width: 400px;
 
 }
-.sub-footer-child >#middle-div{
-}
+
 .copyright-main-container{
     height: 50px;
     margin-top: 10px;
@@ -32,8 +31,18 @@ width: 400px;
 
 }
 
-/* @media (min-width: 640px) {
-    .copyright-main-container{
-        margin-top: 0px;
-    }
-} */
+.sub-footer{
+   width: 100%; 
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+}
+
+
+@media screen and (max-width: 769px) {
+
+.sub-footer{
+    flex-direction: column;
+}
+
+}

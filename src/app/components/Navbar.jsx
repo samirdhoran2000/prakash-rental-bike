@@ -19,7 +19,7 @@ const Navbar = () => {
 
       <div className="nav-links">
         <Link href={"/#home"}>Home</Link>
-        <Link href={"/#services"}>Services</Link>
+        <Link href={"tel:+918888634041"}>Services</Link>
         <Link href={"https://shreebikerental.in/"}>Bikes</Link>
         <Link href={"https://shreebikerental.com/"}> Scooter</Link>
         {/* <Link href={"/#about"}>About Us</Link>
