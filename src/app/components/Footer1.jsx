@@ -19,7 +19,7 @@ const Footer1 = () => {
             ></iframe>
           </div>
           <div className="sub-footer-child text-gray-500">
-            <a href="tel:+918888634041"></a>
+           orem ipsum dolor, sit amet consectetur adipisicing elit. Quasi reprehenderit quo aliquid ea? Itaque dignissimos voluptatibus perferendis? Reprehenderit, cum labore. Laborum perferendis esse ratione hic ipsum nisi culpa praesentium! Magni.
           </div>
           <div className="sub-footer-child text-gray-500">
             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sunt
@@ -31,7 +31,7 @@ const Footer1 = () => {
         <div className="copyright-main-container w-full text-gray-300">
           <div style={{
             // backgroundColor:'red'
-          }}>&copy; All copyright Reseverd <Link href={'tel:+918888634041'}>Samir Dhoran</Link></div>
+          }}>&copy; All copyright Reseverd <Link href={'tel:+918262920116'}>Prakash Indore</Link></div>
           <div
             style={{
               display: "flex",
